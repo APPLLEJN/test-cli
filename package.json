@@ -1,0 +1,20 @@
+{
+  "name": "zaih-cli-new",
+  "version": "1.0.3",
+  "description": "just try",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "zaih-cli-new": "./bin/index.js"
+  },
+  "author": "jn",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1"
+  }
+}
